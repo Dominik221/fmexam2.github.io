@@ -1,0 +1,35 @@
+//
+// TYPOGRAPHY
+// ----------------------------------------------
+
+.main h1 {
+    color: $color-text-mh;
+    margin-bottom: 2.5rem;
+
+    font: {
+        size: 2.1875rem;
+        family: $font-family;
+        weight: 700;
+    }
+}
+
+strong {
+    color: $color-text-strong;
+}
+
+p {
+    color: $color-text-darken;
+}
+
+h4 {
+    color: $color-text-mh;
+    font-weight: 600;
+}
+
+span {
+    display: block;
+    color: $color-text-darken;
+    font-size: .8125rem;
+    text-transform: uppercase; 
+}
+
