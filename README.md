@@ -17,8 +17,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- [Solution URL:](https://www.frontendmentor.io/solutions/order-summary-component-solution-with-scss-Fvkp9Hm3u)
-- [Live Site URL:](https://dominik221.github.io/fmexam1.github.io/)
+- [Solution URL:](https://www.frontendmentor.io/solutions/stats-preview-card-component-challenge-htmlscss-aGoDI7FBz)
+- [Live Site URL:](https://dominik221.github.io/fmexam2.github.io/)
 
 ## My process
 
