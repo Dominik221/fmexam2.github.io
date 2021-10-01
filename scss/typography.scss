@@ -21,10 +21,10 @@ p {
     color: $color-text-darken;
 }
 
-h4 {
+.item p {
+    margin: 0;
     color: $color-text-mh;
     font-weight: 600;
-    margin: 0;
 }
 
 span {
